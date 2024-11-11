@@ -1,0 +1,14 @@
+C:\Users\Артемий\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\net8.0\ConsoleApp18.exe
+C:\Users\Артемий\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\net8.0\ConsoleApp18.deps.json
+C:\Users\Артемий\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\net8.0\ConsoleApp18.runtimeconfig.json
+C:\Users\Артемий\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\net8.0\ConsoleApp18.dll
+C:\Users\Артемий\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\net8.0\ConsoleApp18.pdb
+C:\Users\Артемий\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\net8.0\ConsoleApp18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артемий\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\net8.0\ConsoleApp18.AssemblyInfoInputs.cache
+C:\Users\Артемий\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\net8.0\ConsoleApp18.AssemblyInfo.cs
+C:\Users\Артемий\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\net8.0\ConsoleApp18.csproj.CoreCompileInputs.cache
+C:\Users\Артемий\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\net8.0\ConsoleApp18.dll
+C:\Users\Артемий\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\net8.0\refint\ConsoleApp18.dll
+C:\Users\Артемий\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\net8.0\ConsoleApp18.pdb
+C:\Users\Артемий\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\net8.0\ConsoleApp18.genruntimeconfig.cache
+C:\Users\Артемий\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\net8.0\ref\ConsoleApp18.dll
